@@ -1,0 +1,13 @@
+.fib-input,
+.fib-input:focus,
+input[type="text"].fib-input{
+    border: none;
+    border-bottom: 1px dashed #DDD;
+    background-color: transparent;
+    width: auto;
+    padding: 0;
+    font-weight: bold;
+}
+.lpr-question-hint .fib-wrong {
+    text-decoration: line-through;
+}
